@@ -6,3 +6,7 @@
   margin-top: 30px;
   padding: 10px;
 }
+
+.warning {
+  color: rgb(206, 94, 94);
+}
